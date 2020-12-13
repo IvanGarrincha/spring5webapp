@@ -9,5 +9,12 @@ public class WebConfig {
 	
 	
 	
-	public void featureTest() {}
+	public void featureTest() {
+		/*
+		 * 
+		 * lägger till något feature
+		 * 
+		 */
+		
+	}
 }
